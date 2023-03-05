@@ -8,7 +8,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermea19&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea19&layout=compact)](https://github.com/guilhermea19/)
 
-## Tecnologias que eu uso no meu dia
+## Estudando no momento 🤓
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</div><br/>
+
+## Tecnologias que eu uso no meu dia (trabalho/estudos)
 
 ### Trabalho 👨‍💻
 <div style="display: inline_block"><br/>
@@ -109,9 +117,3 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 </div><br/>
-
-
-
-
-
-</div>
