@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermea19&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea19&layout=compact)](https://github.com/guilhermea19/)
 
-## Tecnologias que eu uso no meu dia (trabalho/estudos)
+## Tecnologias que eu uso no meu dia
 
 ### Trabalho 👨‍💻
 <div style="display: inline_block"><br/>
