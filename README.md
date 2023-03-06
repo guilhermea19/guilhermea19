@@ -16,7 +16,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div><br/>
 
-## Tecnologias que eu uso no meu dia (trabalho/estudos)
+## Tecnologias que eu uso no meu dia
 
 ### Trabalho 👨‍💻
 <div style="display: inline_block"><br/>
