@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva1911)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermea19&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea19&hide_progress=true)](https://github.com/guilhermea19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea19&layout=compact)](https://github.com/guilhermea19)
 
 ## Estudando no momento 🤓
 <div style="display: inline_block"><br/>
