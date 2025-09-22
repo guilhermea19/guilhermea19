@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Guilherme Augusto 👋 
-#### Desenvolvedor FullStack e aspirante a UI Design 🎨
+#### Desenvolvedor FullStack
 
 #### minhas Redes Sociais
 [![Portifolio](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
